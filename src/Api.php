@@ -251,7 +251,7 @@ class Api implements ApiInterface{
       'post_only' => '',
       // Markert Order Parameters 
       'size' => '',
-      'funcds' => '',
+      'funds' => '',
       // Stop Order Parameters 
       'price' => '',
       'size' => '',
